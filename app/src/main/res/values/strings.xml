@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Picasso Test</string>
+
+    <string name="hotel_url">https://4frdl93cz6p7yjut62xk8sj4-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/Holiday_Inn_Logo_1-300x300.jpg</string>
+
+    <string name="hotel_1">Shang Ri La</string>
+    <string name="hotel_1_desc">shang is nice</string>
+
+    <string name="hotel_2">Fullerton</string>
+    <string name="hotel_2_desc">Fullerton is full to the brim</string>
+
+    <string name="hotel_3">Holiday Inn</string>
+    <string name="hotel_3_desc">Everyone is having a holiday</string>
+
+    <string name="hotel_4">Marriot</string>
+    <string name="hotel_4_desc">Marred by trajedy</string>
+
+    <string name="hotel_5">Hilton</string>
+    <string name="hotel_5_desc">Paris hilton was here</string>
+
+    <string name="hotel_6">Radisson</string>
+    <string name="hotel_6_desc">This hotel is RAD</string>
+
+    <string name="hotel_7">Hyatt</string>
+    <string name="hotel_7_desc">HUAT AH</string>
+
+    <string name="hotel_8">InterContinental</string>
+    <string name="hotel_8_desc">Best in the continent</string>
+
+    <string name="hotel_9">Sheraton</string>
+    <string name="hotel_9_desc">Share the goods</string>
+
+    <string name="hotel_10">Westin</string>
+    <string name="hotel_10_desc">Best in the west</string>
+
+</resources>
